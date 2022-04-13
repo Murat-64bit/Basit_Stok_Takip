@@ -1,0 +1,17 @@
+C:\Users\murat\Desktop\Yazılım\StokTakip\StokTakip\bin\Debug\StokTakip.exe.config
+C:\Users\murat\Desktop\Yazılım\StokTakip\StokTakip\bin\Debug\StokTakip.exe
+C:\Users\murat\Desktop\Yazılım\StokTakip\StokTakip\bin\Debug\StokTakip.pdb
+C:\Users\murat\Desktop\Yazılım\StokTakip\StokTakip\obj\Debug\StokTakip.csproj.AssemblyReference.cache
+C:\Users\murat\Desktop\Yazılım\StokTakip\StokTakip\obj\Debug\StokTakip.FrmUrunEkle.resources
+C:\Users\murat\Desktop\Yazılım\StokTakip\StokTakip\obj\Debug\StokTakip.Properties.Resources.resources
+C:\Users\murat\Desktop\Yazılım\StokTakip\StokTakip\obj\Debug\StokTakip.csproj.GenerateResource.cache
+C:\Users\murat\Desktop\Yazılım\StokTakip\StokTakip\obj\Debug\StokTakip.csproj.CoreCompileInputs.cache
+C:\Users\murat\Desktop\Yazılım\StokTakip\StokTakip\obj\Debug\StokTakip.exe
+C:\Users\murat\Desktop\Yazılım\StokTakip\StokTakip\obj\Debug\StokTakip.pdb
+C:\Users\murat\Desktop\Yazılım\StokTakip\StokTakip\obj\Debug\StokTakip.frmAnaSayfa.resources
+C:\Users\murat\Desktop\Yazılım\StokTakip\StokTakip\obj\Debug\StokTakip.frmUrunSil.resources
+C:\Users\murat\Desktop\Yazılım\StokTakip\StokTakip\obj\Debug\StokTakip.frmUrunGuncelle.resources
+C:\Users\murat\Desktop\Yazılım\StokTakip\StokTakip\obj\Debug\StokTakip.frmUrunAra.resources
+C:\Users\murat\Desktop\Yazılım\StokTakip\StokTakip\obj\Debug\StokTakip.frmLogin.resources
+C:\Users\murat\Desktop\Yazılım\StokTakip\StokTakip\bin\Debug\DbStokTakip.mdf
+C:\Users\murat\Desktop\Yazılım\StokTakip\StokTakip\bin\Debug\DbStokTakip_log.ldf
